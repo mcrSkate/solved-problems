@@ -4,6 +4,4 @@ It's a repositoy made to solve problems of some platforms, like [leetcode](https
 
 ### Leet Code Solved Status
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=mcrSkate&theme=dark" width="400"/>
-</a>
+[![mcrSkate's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mcrSkate&theme=dark)](https://github.com/mcrSkate/leetcode-stats)
